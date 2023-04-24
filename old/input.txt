@@ -1,0 +1,2 @@
+FOR 5 echo Hello
+WHILE 1 3 echo World
